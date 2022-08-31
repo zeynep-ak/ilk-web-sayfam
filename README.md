@@ -8,4 +8,4 @@
 
 İlk Web Sayfam:
 
-![](img1.png)
+![](img.png)
